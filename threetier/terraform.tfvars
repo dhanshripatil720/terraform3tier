@@ -1,0 +1,5 @@
+my_region= "ap-southeast-1"
+access_key="YOUR_ACCESS_KEY"
+secret_key = "YOUR_SECRET_KEY"
+my_ami= "ami-0672fd5b9210aa093"
+vpc_id= "YOUR_VPC_ID"
